@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Um Post de Exemplo
-feature-img: "assets/img/pexels/lion.jpg"
+feature-img: "assets/img/pexels/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Estatística, Análise]
 author: leonaralves
